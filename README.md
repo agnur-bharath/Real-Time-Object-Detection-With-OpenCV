@@ -12,12 +12,7 @@ cd Real-Time-Object-Detection-With-OpenCV
 **Install the Required Packages:**
 
 ```
-pip install opencv-python
-pip install opencv-contrib-python
-pip install opencv-python-headless
-pip install opencv-contrib-python-headless
-pip install matplotlib
-pip install imutils
+pip install numpy argparse imutils opencv-contrib-python matplotlib gtts playsound
 ```
 
 Make sure to download and install opencv and and opencv-contrib releases for OpenCV 3.3. This ensures that the deep neural network (dnn) module is installed. You must have OpenCV 3.3 (or newer) to run this code.
