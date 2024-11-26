@@ -26,5 +26,5 @@ python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt
 
 To run the code for object detection and audio output use the below command in your terminal
 ```
-python real_time_object_detection_with_voice.py --prototxt MobileNetSSD_deploy.prototxt --model MobileNetSSD_deploy.caffemodel
+python real_time_object_detection_with_voice.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 ```
